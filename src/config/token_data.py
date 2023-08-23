@@ -2080,6 +2080,19 @@ TOKENS = {
       "sourceDecimals": 18
     }
   },
+  "WAS": {
+      "symbol": "WAS",
+      "name": "Wasder Token (Portal)",
+      "sourceAddress": "0x0c572544a4ee47904d54aaa6a970af96b6f00e1b",
+      "coingeckoId": "wasder",
+      "destinations": {
+        "sol": {
+          "address": "2cW8Yosn4tSYJYjfUkcpKnYBSMYDqXfJmQXVu4RJzBTw",
+          "decimals": 8
+        }
+      },
+      "sourceDecimals": 18
+    },
   #####################
   # 3. Terra native
   #####################
